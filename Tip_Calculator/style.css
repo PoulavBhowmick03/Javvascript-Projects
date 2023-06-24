@@ -3,12 +3,12 @@
   }
   
   body {
-    background-color: #f2f2f2;
+    background-color: #d88e8e;
     font-family: "Helvetica", sans-serif;
   }
   
   .container {
-    background-color: white;
+    background-color: rgb(224, 215, 241);
     max-width: 600px;
     margin: 100px auto;
     padding: 20px;
